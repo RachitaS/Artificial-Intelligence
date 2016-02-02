@@ -1,0 +1,20 @@
+RUNNING THE CODE: 
+
+	python3 KNN.py
+
+
+OUTPUT FORMAT :
+
+	- Once the code is run, user will be asked to select one dataset.
+
+	- All of the required results will be displayed on console without any further human inputs.
+
+	- The output is self explainatory with proper headings, line breaks and it conveys what the result stands for.
+
+	- At the end of all the results the required iris graph plot will be launched ONLY when iris dataset is selected.
+
+DATASETS IMPLEMENTED :
+
+	- Iris
+	- Wine
+	- Winequality-red
